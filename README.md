@@ -1,108 +1,172 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#The Fertility Link
 
-Welcome MJstephenson,
+##Project Overview
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The Fertility Link project allows individuals and couples in the UK who are considering, starting, going through or have concluded their fertility treatment/s to connect with each other for peer support through the medium of chatrooms and 1-1 video conferencing. There is also the option for a premium subscription service that gives access to professional support from health care professionals via webinars, Q and A sessions, information libraries, chatrooms, 1-1 video conferencing and virtual reality. This service does not currently exist in the UK and there is a distinct lack of accessible peer/professional support or a dedicated website for those going through their fertility journey so the project offers a solution to this need.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
-## Gitpod Reminders
+## Project Goals 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### User Goals
+- To get access to peer support through their fertility journey via chatrooms and video conferencing.
+- To get access to professional practitioner support through their fertility journey.
+- To get access to peers and healthcare practitioners through the medium of a virtual reality platform to enhance communication.
+- To get access to webinars hosted by healthcare practitioners for information on fertility treatments and the role of specific healthcare practitioners in the fertility team.
+- To get access to recorded webinars for reference. 
+- To gain access to a library of maintained, up to date information on fertility treatments, procedures and medication.
+- To get access to a selection of fertility apps, healthy eating advice and exercise plans to benefit fertility.
 
-`python3 -m http.server`
+### Site Owner Goals
+- To give potential users access to chatrooms, video conferencing and virtual reality.
+- To provide information about the difference between signing up as a standard user and as a premium subscriber.
+- To generate an income stream through premium subscriptions.
+- To offer additional support to subscribers by offering paid access to counselling services and 1-1 consultations from health care practitioners, information libraries, apps to help with fertility, exercise plans and  .
+- To provide a way for returning subscribers to sign back into the service.
+- To provide a site that is presented with eye catching images.
+- To grow a database of subscribers which can then be used for targeted advertising. This could be via email or withing the platform itself for additional services and products relating to fertility and babies/new families therefore generating a further income stream. – FOR FURTHER SITE DEVELOPOMENT
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+## User Experience
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Target Audience
+- Individuals and couples that are wanting a website/service that offers a wide range of support with regards to their fertility journey no matter what stage they are at in one online site.
+- Individuals and couples who wish to join a network of peers that are going through fertility treatments to gain peer support through their fertility journey.
+- Individuals and couples looking for professional peer support.
+- Individuals and couples that may require a counselling service.
 
-A blue button should appear to click: _Make Public_,
+ 
+### User Requirements and Expectations
 
-Another blue button should appear to click: _Open Browser_.
+- An intuitive and simple navigation system.
+- To quickly and easily be able to find relevant information about the site and its services.
+- Links and functions that work correctly as expected by the user.
+- Professional presentation and a visually appealing design over a range of screen sizes.
+- An easy way to sign up to the service as a standard user or as a premium subscriber.
+- Content that is easy to digest and tells the user what services are available.
+- A way to easily subscribe to the standard or premium service.
+- A site that takes into account accessibility.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### User Stories
 
-To log into the Heroku toolbelt CLI:
+#### First-time User 
+1. As a first time user, I want to know what The Fertility Link is offering.
+2. As a first time user, I want to know what the standard subscription includes.
+3. As a first time user, I want to know what the premium subscription includes.
+4. As a first time user, I want an example of the webinar timetable.
+5. As a first time user, I want to know about other people’s experiences of the platform. 
+6. As a first time user, I want to know where to sign up.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### Returning User
+6. As a returning user, I want to be able to sign into the service.
+7. As a returning user, I want to be able to contact the service provider.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### Site Owner 
+8. As the site owner, I want users to quickly know what The Fertility Link is offering.
+9. As the site owner, I want users to quickly access information that will give them and informed choice about signing up to the standard or premium service. 
+10. As the site owner, I want the users to be able to contact the Fertility Link.
+11. As the site owner I want the users to feel that the website is professional looking and will therefore offer a professional service.
 
-------
 
-## Release History
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Design
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+### Design Choices
+The website will be visited by all genders whether as individuals or couples and therefore provides a good balance between masculinity and femininity in the image and colour choices. The website design is developed so that it showcases the benefits and services of signing up to the premium subscription and steers new users towards the signup page. 
+The link logo in the header was used so that the site becomes instantly recognisable by the users.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### Colour
+For the site the colours pink and blue are selected to represent the desire for a birth of a boy or girl from the potential subscribers to elicit a positive emotion.
+Black is selected within the web pages to make images and text pop and be visually appealing. This was influenced by https://www.awwwards.com/sites/de-fortuyne which is a nominee for the awwwards website for web design. 
+A soft/light grey was selected to offset the black and to allow a sharp contrasting black font to be utilised.
+White is used for the logo to give it a high contrast.
+Colormind was used for the colour selection.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+### Fonts
+Google fonts has been imported and "I HAVE NOT DECIEDED WHICH FONT TO USE YET – POSSIBLY ROBERTO" has been used for all the text inside the website with sans-serif selected for if a browser does not support the prior font.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Structure
+The page is structured in a user friendly, easily recognised, simple format. The first time user sees a typical navigation bar at the top of the page, with a sign in button to the left and a navigation bar to the right.
+The title The Fertility Link is displayed clearly with a sub heading of Connecting, Supporting, Empowering. 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+The website consists of five separate pages: 
+- A homepage consisting of a section about The Fertility Link and a signup button. A second section with information about the premium subscription presented in 3 cards with images. A Premium signup button is also displayed. 
+- A Premium page with a section with more precise details about what the premium subscription offers and a signup button. Three cards with bulleted details further describing the features of the service. A table showing webinar times and what health professionals will be presenting. A section with user experiences. A video showing a user experience.
+- A sign up page with a sign up form
+- A sign in page with a sign in form
+- A contact page with a contact form
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Wireframes
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+ADD THE FIVE PAGES IN DROPDOWNS
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Technologies Used
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Languages
+- HTML
+- CSS
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Tools
+- Git
+- GitHub
+- Gitpod
+- Balsamiq
+- Bootstrap
+- Google Fonts
+- Colormind
+- Font Awesome
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Features
+- The website consists of 5 pages and twelves features
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Logo and Navigation Bar
+- Features across all five pages
+- The navbar responds fully and includes links to the Homepage, Premium, Sign in, Sign up and Contact page
+- It allows users to easily navigate around the website
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+![Logo and navbar](docs/features/*.png)
 
-------
+### Introduction to services on home page
+- Presents a brief description/overview of the services The Fertility Link provides
+- Presents the user with a link to sign up
+- User stories fulfilled: 1, 6, 9
 
-## FAQ about the uptime script
+![Brief description](docs/features/*.png)
 
-**Why have you added this script?**
+### Opening hours and Services
+- Presents the weekly schedule with working hours
+- Show available services
+- Shows the price of each service
+- User stories covered: 2, 6
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+![Opening hours and services](docs/features/opening-hours-and-services.png)
 
-**How will this affect me?**
+### Address and Google map
+- Clearly shows to the user the shop address 
+- It also contains a Google map window that the user can use to get directions to the shop
+- User stories covered: 1, 11
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+### Footer
+- Provides external links to this shop social media profiles, where user can find more information about this shop
+- These links, when clicked, open in new tabs or windows
+- User stories covered: 10
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+### Gallery Page
+- Contains images with satisfied customers
+- Contains customer reviews
+- Contains a youtube video about types of haircuts
+- User stories covered: 3, 4, 5, 8, 13
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
 
-**Can I opt out?**
+### About Page
+- Contains a more detailed description of the barber shop
+- Provides details about the products used by the shop
+- User stories covered: 3, 12, 13
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+### Contact Page
+- It provide the shop telephone number for the user
+- A contact form is present here that the user can use to leave a message and his contact details to be contacted by the shop
+- User stories covered: 7, 9, 14
