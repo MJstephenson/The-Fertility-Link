@@ -98,22 +98,14 @@ The website consists of five separate pages:
 
 ### Wireframes
 
-<details>
-<summary>Homepage</summary>
-<br>
-![Homepage wireframe](docs/wireframes/homepage.png)
+<details><summary>Home</summary>
+<img src="docs/wireframes/homepage.png">
 </details>
-
-<details>
-<summary>Premium wireframe</summary>
-<br>
-![Homepage wireframe](docs/wireframes/premium.png)
+<details><summary>premium</summary>
+<img src="docs/wireframes/premium.png">
 </details>
-
-<details>
-<summary>Contact wireframe</summary>
-<br>
-![Homepage wireframe](docs/wireframes/signup.png)
+<details><summary>signup</summary>
+<img src="docs/wireframes/signup.png">
 </details>
 
 ## Technologies Used
