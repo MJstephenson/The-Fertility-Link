@@ -35,3 +35,10 @@
   .nav-links li a:hover {
     color: #00b0f0;
   }
+
+  #signin {
+    border-color: #00b0f0;
+    padding: 9px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    }
