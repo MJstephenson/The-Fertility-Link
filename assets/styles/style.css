@@ -75,6 +75,7 @@ h1 {
     color: #edf0f1;
     font-size: 30px;
     font-family:"Montserrat", sans-serif;
+    margin-bottom: 40px;
 }
 
 .signup {
@@ -91,8 +92,8 @@ h1 {
     background: #F349A6;
 }
 
-.black-block {
-    background-color: aqua;
+#holding-hands {
+    height:30vh;
     width: 100%;
-    height: 25px;
+    margin-bottom: 150px;
 }
