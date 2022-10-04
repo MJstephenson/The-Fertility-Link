@@ -93,7 +93,7 @@ h1 {
 }
 
 #holding-hands {
-    height:30vh;
+    height:40vh;
     width: 100%;
     margin-bottom: 100px;
 }
@@ -122,7 +122,8 @@ h1 {
 .grey-block-bkgr {
     background-color:#edf0f1;
     width: 100%;
-    height: 400px;
+    height: 700px;
+    margin: 0;
 }
 
 .premium-btn {
@@ -139,3 +140,4 @@ h1 {
 .premium-btn:hover {
     background:#00b0f0;
 }
+
