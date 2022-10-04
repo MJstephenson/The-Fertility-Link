@@ -81,6 +81,7 @@ A soft/light grey was selected to offset the black and to allow a sharp contrast
 White is used for the logo to give it a high contrast.
 Colormind was used for the colour selection.
 
+![Colour scheme](docs/features/colour-palette.png)
 
 ### Fonts
 Google fonts has been imported and "I HAVE NOT DECIEDED WHICH FONT TO USE YET – POSSIBLY ROBERTO" has been used for all the text inside the website with sans-serif selected for if a browser does not support the prior font.
