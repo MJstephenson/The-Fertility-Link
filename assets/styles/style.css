@@ -95,5 +95,10 @@ h1 {
 #holding-hands {
     height:30vh;
     width: 100%;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
+}
+
+#link-icon-lrg {
+    color: #edf0f1;
+    font-size: 80px;
 }
