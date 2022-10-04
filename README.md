@@ -1,6 +1,6 @@
-#The Fertility Link
+# The Fertility Link
 
-##Project Overview
+## Project Overview
 
 The Fertility Link project allows individuals and couples in the UK who are considering, starting, going through or have concluded their fertility treatment/s to connect with each other for peer support through the medium of chatrooms and 1-1 video conferencing. There is also the option for a premium subscription service that gives access to professional support from health care professionals via webinars, Q and A sessions, information libraries, chatrooms, 1-1 video conferencing and virtual reality. This service does not currently exist in the UK and there is a distinct lack of accessible peer/professional support or a dedicated website for those going through their fertility journey so the project offers a solution to this need.
 
