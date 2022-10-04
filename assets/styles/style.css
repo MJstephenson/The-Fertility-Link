@@ -37,6 +37,7 @@ h1 {
     padding: 9px 25px;
     border-radius: 10px;
     cursor: pointer;
+    background-color: transparent;
 }
 #signin:hover {
     background:#00b0f0;
