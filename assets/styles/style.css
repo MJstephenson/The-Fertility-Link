@@ -135,3 +135,7 @@ h1 {
     font-family:"Montserrat", sans-serif;
     margin-top: 20px;
 }
+
+.premium-btn:hover {
+    background:#00b0f0;
+}
