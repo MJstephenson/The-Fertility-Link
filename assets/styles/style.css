@@ -31,3 +31,7 @@
     padding-left: 150px;
     font-size: 42px;
   }
+
+  .nav-links li a:hover {
+    color: #00b0f0;
+  }
