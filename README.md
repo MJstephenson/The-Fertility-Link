@@ -98,7 +98,23 @@ The website consists of five separate pages:
 
 ### Wireframes
 
-ADD THE FIVE PAGES IN DROPDOWNS
+<details>
+<summary>Homepage</summary>
+<br>
+![Homepage wireframe](docs/wireframes/homepage.png)
+</details>
+
+<details>
+<summary>Premium wireframe</summary>
+<br>
+![Homepage wireframe](docs/wireframes/premium.png)
+</details>
+
+<details>
+<summary>Contact wireframe</summary>
+<br>
+![Homepage wireframe](docs/wireframes/signup.png)
+</details>
 
 ## Technologies Used
 
@@ -131,42 +147,9 @@ ADD THE FIVE PAGES IN DROPDOWNS
 - Presents the user with a link to sign up
 - User stories fulfilled: 1, 6, 9
 
-![Brief description](docs/features/*.png)
-
-### Opening hours and Services
-- Presents the weekly schedule with working hours
-- Show available services
-- Shows the price of each service
-- User stories covered: 2, 6
-
-![Opening hours and services](docs/features/opening-hours-and-services.png)
-
-### Address and Google map
-- Clearly shows to the user the shop address 
-- It also contains a Google map window that the user can use to get directions to the shop
-- User stories covered: 1, 11
 
 
-### Footer
-- Provides external links to this shop social media profiles, where user can find more information about this shop
-- These links, when clicked, open in new tabs or windows
-- User stories covered: 10
 
 
-### Gallery Page
-- Contains images with satisfied customers
-- Contains customer reviews
-- Contains a youtube video about types of haircuts
-- User stories covered: 3, 4, 5, 8, 13
 
 
-### About Page
-- Contains a more detailed description of the barber shop
-- Provides details about the products used by the shop
-- User stories covered: 3, 12, 13
-
-
-### Contact Page
-- It provide the shop telephone number for the user
-- A contact form is present here that the user can use to leave a message and his contact details to be contacted by the shop
-- User stories covered: 7, 9, 14
